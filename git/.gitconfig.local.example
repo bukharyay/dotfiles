@@ -1,0 +1,12 @@
+# Copy this file to ~/.gitconfig.local to set your personal Git identity
+[user]
+	name = Your Name
+	email = your.email@example.com
+	# signingkey = YOUR_GPG_OR_SSH_KEY
+
+# Optional: Override pager settings if delta is not installed or preferred
+# [core]
+# 	pager = less -RFX
+# [interactive]
+# 	diffFilter = 
+
